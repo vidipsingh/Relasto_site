@@ -35,8 +35,7 @@ const Nav = styled.nav`
   /* padding: 1rem; */
   height: 6rem;
   gap: 1.15rem;
-  /* width: 2rem; */
-  /* justify-content: center; */
+
 `;
 
 const Nav1 = styled.nav`
